@@ -1,0 +1,982 @@
+array AT FIRST looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+array AFTER 3rd RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00000000
+10000000
+00000010
+00000000
+00000000
+10000000
+00000000
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ where it breaks
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+array AFTER 4th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00000010
+10001000
+00001010
+00000010
+00000000
+10000010
+00000000
+array AFTER 5th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00000010
+10001000
+10001010
+10000010
+00000000
+10000010
+00000000
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+array AFTER 3rd RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00001010
+10001000
+10001010
+10000010
+00000000
+10000010
+00000010
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+array AFTER 4th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111010
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+array AFTER 5th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111010
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+array AFTER 3rd RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+array AFTER 4th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+array AFTER 5th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+array AFTER 3rd RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ else position
+ if all true loop
+ rule 4
+ first loop
+ if there is epsilon all true is false
+ first loop
+ if there is epsilon all true is false
+array AFTER 4th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+array AFTER 5th RULE looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+checking
+array looks like 
+10000000
+00000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00111110
+10001100
+10001110
+10000010
+00000010
+10000010
+00000010
+FIRST(S) = { e, d, a, b, c } 
+FIRST(A) = { #, a, b } 
+FIRST(B) = { #, a, b, c } 
+FIRST(F) = { #, c } 
+FIRST(D) = { c } 
+FIRST(C) = { #, c } 
+FIRST(E) = { c } 
